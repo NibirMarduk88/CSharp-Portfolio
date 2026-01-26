@@ -33,7 +33,7 @@ structured thinking, and problem-solving skills**.
 - **CSharp-Arcade-Games**  
   Collection of console-based arcade games developed in C#, focused on
   credits, rounds, game states, and control structures.  
-  👉 [https://github.com/TU_USUARIO/CSharp-Arcade-Games](https://github.com/NibirMarduk88/CSharp-Arcade-Games)
+  👉 https://github.com/NibirMarduk88/CSharp-Arcade-Games.git
 
 ---
 
